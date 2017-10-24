@@ -6,5 +6,9 @@ sunlan分支设置test
 sunlan分支删除后再创建
 git clone
 one修改test
+
 one 没下载修改
 12345
+
+two 修改test
+
